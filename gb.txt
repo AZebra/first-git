@@ -1,1 +1,2 @@
 cout << "ggwp" << endl;
+cout << "have fun" <<;
